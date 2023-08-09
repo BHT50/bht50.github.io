@@ -21,16 +21,16 @@
       <div>
         <nav id="Menu">
           <a href="{{ site.url }}"><button class="navbutton">Home</button></a>
-	  <div class="dropdown"><a href="{{ site.url }}/minicourses/"><button class="dropbtn">Minicourses</button></a>
-            <div class="dropdown-content">
-              <a href="{{ site.url }}/minicourses/qftcs">QFTCS</a>
-              <a href="{{ site.url }}/minicourses/bht">BHT</a>
-              <a href="{{ site.url }}/minicourses/rqi">RQI</a>
-            </div>
-          </div>
+	<div class="dropdown"><a href="{{ site.url }}/minicourses"><button class="dropbtn">Minicourses</button></a>
+      <div class="dropdown-content">
+        {% for minicourse in site.minicourses %}
+          <a href="{{ minicourse.url }}">{{ minicourse.shortname | default: minicourse.title }}</a>
+        {% endfor %}
+      </div>
+    </div>
 	  <a href="{{ site.url }}/talks/"><button class="dropbtn">Talks</button></a>
     <a href="{{ site.url }}/calendar/"><button class="dropbtn">Calendar</button></a>
-	  <div class="dropdown"><a href="{{ site.url }}/organizers"><button class="dropbtn">organizers</button></a>
+    <div class="dropdown"><a href="{{ site.url }}/organizers"><button class="dropbtn">Organizers</button></a>
       <div class="dropdown-content">
         {% for organizer in site.organizers %}
           <a href="{{ organizer.url }}">{{ organizer.shortname | default: organizer.title }}</a>
