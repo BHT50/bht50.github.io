@@ -3,7 +3,7 @@
 ## [Níckolas de Aguiar Alves](https://alves-nickolas.github.io/)
 
   <div align="center">
-    <img src="/pictures/nick.png" alt="Níck's profile picture" width="200" height="200">
+    <img src="https://bht50.github.io/organizers/pictures/nick.png" alt="Níck's profile picture" width="200" height="200">
   </div>
 
   Hello, there! I am Níckolas de Aguiar Alves, a theoretical physicist. I just got my MSc degree at the Federal University of ABC. I work in the interface between Quantum Mechanics and Gravitation. More specifically, I have recently been studying how to use the functional renormalization group to understand nonperturbative phenomena within quantum field theory in curved spacetime. I am particularly attracted to the intersections of work happening in high energy physics, mathematical physics, and gravitational physics.
