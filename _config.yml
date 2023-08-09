@@ -3,3 +3,18 @@ title: Golden Wedding of Black Holes and Thermodynamics
 description: An Online Celebration
 github:
   is_project_page: false
+
+collections:
+  minicourses:
+    output: true
+    
+defaults:
+  - scope:
+      path: ""
+      type: "minicourses"
+    values:
+      layout: "default"      
+  - scope:
+      path: ""
+    values:
+      layout: "default"
