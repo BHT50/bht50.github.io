@@ -30,13 +30,7 @@
     </div>
 	  <a href="{{ site.url }}/talks/"><button class="dropbtn">Talks</button></a>
     <a href="{{ site.url }}/calendar/"><button class="dropbtn">Calendar</button></a>
-    <div class="dropdown"><a href="{{ site.url }}/organizers"><button class="dropbtn">Organizers</button></a>
-      <div class="dropdown-content">
-        {% for organizer in site.organizers %}
-          <a href="{{ organizer.url }}">{{ organizer.shortname | default: organizer.title }}</a>
-        {% endfor %}
-      </div>
-    </div>
+    <a href="{{ site.url }}/organizers/"><button class="dropbtn">Organization</button></a>
     </nav>
 
     <div class="wrapper">
