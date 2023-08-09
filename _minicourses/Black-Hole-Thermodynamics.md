@@ -7,4 +7,4 @@ lecturer: Dr. Bruno Arderucio Costa (National Autonomous University of Mexico �
 layout: default
 ---
 
-**Lecturer:** [Dr. Bruno Arderucio Costa](https://barderucio.wordpress.com/) ([National Autonomous University of Mexico](english.unam.mx) – Mexico)
+**Lecturer:** [Dr. Bruno Arderucio Costa](https://barderucio.wordpress.com/) ([National Autonomous University of Mexico](https://english.unam.mx) – Mexico)
