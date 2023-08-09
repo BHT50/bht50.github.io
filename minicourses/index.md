@@ -8,7 +8,7 @@ title: Minicourses
     <h2><a href="{{ minicourse.url }}">{{ minicourse.title }}</a></h2>
     <h4>{{ minicourse.vagas }}</h4>
     <p><b>Lecturer:</b> {{ minicourse.lecturer }}</p>
-    <p><b>Days:</b> {{ minicourse.days }}</p>
+    <p><b>Dates:</b> {{ minicourse.dates }}</p>
     <p><b>Schedule:</b> {{ minicourse.schedule }}</p>
     {% endif %}
 {% endfor %}
