@@ -13,7 +13,12 @@ defaults:
       path: ""
       type: "minicourses"
     values:
-      layout: "default"      
+      layout: "default"
+  - scope:
+      path: ""
+      type: "calendar"
+    values:
+      layout: "default"
   - scope:
       path: ""
     values:
