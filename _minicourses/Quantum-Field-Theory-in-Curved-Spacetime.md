@@ -1,5 +1,5 @@
 ---
-title: Introduction to Quantum Field Theory in Curved Spacetime
+title: Quantum Field Theory in Curved Spacetime
 shortname: QFTCS
 schedule: 
 dates: 
