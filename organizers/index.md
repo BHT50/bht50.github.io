@@ -1,4 +1,4 @@
-# Organization
+# Organizers
 
 ## [Níckolas de Aguiar Alves](https://alves-nickolas.github.io/)
 
