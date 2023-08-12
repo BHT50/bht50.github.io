@@ -17,6 +17,3 @@
 ## Rafael Grossi e Fonseca
 
 ## Caio César Rodrigues Evangelista
-
-## Gabriel Henrique Sarmento Aguiar 
-
