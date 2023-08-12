@@ -24,7 +24,7 @@
 	<div class="dropdown"><a href="{{ site.url }}/minicourses"><button class="dropbtn">Minicourses</button></a>
       <div class="dropdown-content">
         {% for minicourse in site.minicourses %}
-          <a href="{{ minicourse.url }}">{{ minicourse.shortname | default: minicourse.title }}</a>
+          <a href="{{ minicourse.url }}"><button class="navbutton">{{ minicourse.shortname | default: minicourse.title }}</button></a>
         {% endfor %}
       </div>
     </div>
