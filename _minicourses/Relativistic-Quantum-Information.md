@@ -7,4 +7,6 @@ lecturer:
 layout: default
 ---
 
-**Lecturer:** 
+# Relativistic Quantum Information
+
+**Lecturer:** TBA
