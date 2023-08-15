@@ -7,6 +7,8 @@ lecturer: Níckolas de Aguiar Alves, MSc (Federal University of ABC – Brazil)
 layout: default
 ---
 
+# Quantum Field Theory in Curved Spacetime
+
 **Lecturer:** [Níckolas de Aguiar Alves, MSc](https://alves-nickolas.github.io/) ([Federal University of ABC](https://fisica.ufabc.edu.br/en/) – Brazil)
 
 **Description:** I shall provide an introduction to quantum field theory in curved spacetime. Our goal will be to derive the Unruh effect and use it as an example of many techniques employed in the community: the algebraic approach, Fock space quantization, path integral techniques, and particle detectors. We shall also discuss a bit about the Hawking effect. In the last lecture, I shall discuss my recent contributions to the area by means of the functional renormalization group. This technique hasn't been much explored within QFTCS settings so far. 
