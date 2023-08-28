@@ -18,6 +18,10 @@
 
 ## Rafael Grossi e Fonseca
 
+  <div align="center">
+    <img src="https://bht50.github.io/organizers/pictures/rafael.png" alt="Rafael's profile picture" width="200" height="200">
+  </div>
+
 Howdy!
 
 I'm Rafael, as you can probably tell by the tag above.
