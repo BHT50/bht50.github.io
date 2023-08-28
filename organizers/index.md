@@ -12,8 +12,18 @@
 
 ## Ricardo Correa da Silva 
 
+## Daine Danielson
+
 ## Antônio Duarte Pereira Junior
 
 ## Rafael Grossi e Fonseca
+
+Howdy!
+
+I'm Rafael, as you can probably tell by the tag above.
+
+I got my BSc in Physics at the [Federal University of Minas Gerais](https://www.fisica.ufmg.br/en/home-page/) and I am currently getting my MSc in Mathematical Physics at the [University of São Paulo](http://portal.if.usp.br/ifusp/en).
+
+I am generally interested in mathematical aspects of quantum field theory and in the intersection between pure mathematics and theoretical physics. I am currently working on extending the description of Bell's inequalities in QFT to more general spacetimes and the consequences of such generalization.
 
 ## Caio César Rodrigues Evangelista
