@@ -11,7 +11,7 @@ This page is still under construction! Listings are in alphabetic order by surna
 
 ## Invited Speakers
 
-* Daine P. Danielson (U. of Chicago, USA)
+* Daine P. Danielson (University of Chicago, USA)
 * André G. S. Landulfo (Federal University of ABC, Brazil)
 * Tales Rick Perche (University of Waterloo and Perimeter Institute, Canada)
 * others TBA
