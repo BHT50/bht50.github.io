@@ -1,9 +1,10 @@
 # Talks
 
-This page is still under construction!
+This page is still under construction! Listings are in alphabetic order by surname.
 
 ## Keynote Speakers
 
+* Claudio Dappiaggi (University of Pavia, Italy)
 * Klaus Fredenhagen (Universität Hamburg, Germany)
 * Eduardo Martín-Martínez (University of Waterloo and Perimeter Institute, Canada)
 * others TBA
