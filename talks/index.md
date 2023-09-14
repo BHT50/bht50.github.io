@@ -4,6 +4,7 @@ This page is still under construction! Listings are in alphabetic order by surna
 
 ## Invited Speakers
 
+* Shrobona Bagchi (Korea Institute of Science and Technology — South Korea)
 * Daine P. Danielson (University of Chicago — USA)
 * Claudio Dappiaggi (University of Pavia — Italy)
 * Klaus Fredenhagen (Universität Hamburg — Germany)
