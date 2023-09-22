@@ -5,8 +5,10 @@ This page is still under construction! Listings are in alphabetic order by surna
 ## Invited Speakers
 
 * Shrobona Bagchi (Korea Institute of Science and Technology — South Korea)
+* Steven Carlip (University of California, Davis — USA)
 * Daine L. Danielson (University of Chicago — USA)
 * Claudio Dappiaggi (University of Pavia — Italy)
+* Christopher J. Fewster (University of York — United Kingdom)
 * Klaus Fredenhagen (Universität Hamburg — Germany)
 * Ivette Fuentes (University of Southampton and Keble College, Oxford — United Kingdom)
 * Masahiro Hotta (Tohoku University — Japan)
