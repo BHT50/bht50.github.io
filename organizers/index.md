@@ -16,7 +16,13 @@
 
   About me: [barderucio.wordpress.com/](https://barderucio.wordpress.com/).
 
-## Ricardo Correa da Silva 
+## [Ricardo Correa da Silva](http://www.ricardocorreadasilva.com/)
+
+ <div align="center">
+    <img src="https://bht50.github.io/organizers/pictures/ricardo.png" alt="Ricardo's profile picture" width="200" height="200">
+  </div>
+
+  About me: [www.ricardocorreadasilva.com](http://www.ricardocorreadasilva.com/).
 
 ## Daine Danielson
 
@@ -37,4 +43,4 @@ I got my BSc in Physics at the [Federal University of Minas Gerais](https://www.
 I am generally interested in mathematical aspects of quantum field theory and in the intersection between pure mathematics and theoretical physics. I am currently working on extending the description of Bell's inequalities in QFT to more general spacetimes and the consequences of such generalization.
 
 ## Caio César Rodrigues Evangelista
-Hey Folks! I'm Caio, a a future theoretical physicist currently pursuing my undergraduate degree at the [Federal University of Ceará](https://www.fisica.ufc.br/portal/en/front-page/). I work as a research assistant in the Quantum Field Theory and Gravitation Group there and I have been working mainly in aspects of the Unruh effect, Hawking radiation and black hole shadows. You can find out more about me [here](https://usingcaio.github.io/)
+Hey Folks! I'm Caio, a a future theoretical physicist currently pursuing my undergraduate degree at the [Federal University of Ceará](https://www.fisica.ufc.br/portal/en/front-page/). I work as a research assistant in the Quantum Field Theory and Gravitation Group there and I have been working mainly in aspects of the Unruh effect, Hawking radiation and black hole shadows. You can find out more about me [here](https://usingcaio.github.io/).
