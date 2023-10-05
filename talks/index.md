@@ -17,5 +17,5 @@ This page is still under construction! Listings are in alphabetic order by surna
 * Eleni-Alexandra Kontou (King's College London — United Kingdom)
 * André G. S. Landulfo (Federal University of ABC — Brazil)
 * Eduardo Martín-Martínez (University of Waterloo and Perimeter Institute — Canada)
-* Tales Rick Perche (University of Waterloo and Perimeter Institute — Canada)
+* Tales Rick Perche (University of Waterloo, Perimeter Institute and the Institute of Quantum Computing — Canada)
 * others TBA
