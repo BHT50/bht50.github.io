@@ -30,7 +30,12 @@
     </div>
     <a href="{{ site.url }}/talks"><button class="navbutton">Talks</button></a>
     <a href="{{ site.url }}/calendar"><button class="navbutton">Calendar</button></a>
-    <a href="{{ site.url }}/registration"><button class="navbutton">Registration</button></a>
+    <div class="dropdown"><button class="dropbtn">Registration</button>
+        <div class="dropdown-content">
+    		<a href="{{ site.url }}/registration/conference"><button class="navbutton">Conference</button></a>
+		<a href="{{ site.url }}/registration/minicourses"><button class="navbutton">Minicourses</button></a>
+	</div>
+    </div>
     <a href="{{ site.url }}/organizers"><button class="navbutton">Organizers</button></a>
     </nav>
 
