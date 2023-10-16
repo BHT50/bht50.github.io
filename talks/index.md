@@ -18,4 +18,5 @@ Registrations for contributed talks and posters are open until November 10th.
 * André G. S. Landulfo (Federal University of ABC — Brazil)
 * Eduardo Martín-Martínez (University of Waterloo and Perimeter Institute — Canada)
 * Tales Rick Perche (University of Waterloo, Perimeter Institute and the Institute of Quantum Computing — Canada)
+* Nelson Yokomizo (Federal University of Minas Gerais — Brazil)
 * others TBA
