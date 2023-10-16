@@ -1,6 +1,6 @@
 # Talks
 
-This page is still under construction! Listings are in alphabetic order by surname.
+Registrations for contributed talks and posters are open until November 10th.
 
 ## Invited Speakers
 
