@@ -1,4 +1,4 @@
-# Registration
+# Minicourse Registration
 
 ## BHT Minicourse
 
