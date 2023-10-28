@@ -20,3 +20,7 @@ layout: default
 **Pre-requisites:** I shall assume that the students are familiar with quantum mechanics and open-minded with general relativity, in the sense that while detailed general relativistic calculations will not be necessary, some imagination about curved spacetime may be necessary. Previous knowledge of quantum field theory is encouraged, but not mandatory. 
 
 **Lecture notes:** [available here](https://bht50.github.io/minicourses/QFTCS__An_Introduction.pdf).
+
+## Video Recordings
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=biTOFaiiajVJ5y3J&amp;list=PLdMypOmT56qa4Hi_byAT5wc03tD2jPyoQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
