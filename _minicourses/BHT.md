@@ -19,6 +19,11 @@ layout: default
 
 **Pre-Requisites:** A standard introductory course in general relativity.
 
+**Lecture notes:** 
+
+* [lectures 1 and 2](https://bht50.github.io/minicourses/BHTMinicourseLec1-2.pdf);
+* [lecture 3](https://bht50.github.io/minicourses/BHTMinicourseLec3.pdf).
+
 ## Video Recordings
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=F-g9VxFPljkCZKvI&amp;list=PLdMypOmT56qYJKWRvwiByuAbfpir5Vura" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
