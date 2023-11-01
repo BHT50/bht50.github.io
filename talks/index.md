@@ -21,5 +21,6 @@ Registrations for contributed talks and posters are open until November 10th.
 * Eduardo Martín-Martínez (University of Waterloo and Perimeter Institute — Canada)
 * Tales Rick Perche (University of Waterloo, Perimeter Institute and the Institute of Quantum Computing — Canada)
 * Ko Sanders (FAU Erlangen-Nürnberg — Germany)
+* Frank Saueressig (Radboud Universiteit Nijmegen — The Netherlands)
 * Nelson Yokomizo (Federal University of Minas Gerais — Brazil)
 * others TBA
