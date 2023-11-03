@@ -22,7 +22,9 @@ layout: default
 **Lecture notes:** 
 
 * [lectures 1 and 2](https://bht50.github.io/minicourses/BHTMiniCourseLec1-2.pdf);
-* [lecture 3](https://bht50.github.io/minicourses/BHTMiniCourseLec3.pdf).
+* [lecture 3](https://bht50.github.io/minicourses/BHTMiniCourseLec3.pdf);
+* [lecture 4](https://bht50.github.io/minicourses/BHTMiniCourseLec4.pdf);
+* [lecture 5](https://bht50.github.io/minicourses/BHTMiniCourseLec5.pdf).
 
 ## Video Recordings
 
