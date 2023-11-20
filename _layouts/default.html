@@ -28,7 +28,11 @@
         {% endfor %}
       </div>
     </div>
-    <a href="{{ site.url }}/talks"><button class="navbutton">Talks</button></a>
+    <div class="dropdown"><a href="{{ site.url }}/talks"><button class="dropbtn">Talks</button></a>
+	<div class="dropdown-content">
+    		<a href="{{ site.url }}/talks/abstracts"><button class="navbutton">Book of Abstracts</button></a>
+	</div>
+    </div>    
     <a href="{{ site.url }}/calendar"><button class="navbutton">Calendar</button></a>
     <div class="dropdown"><button class="dropbtn">Registration</button>
         <div class="dropdown-content">
