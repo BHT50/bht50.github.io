@@ -46,7 +46,9 @@ The mass of a black hole has traditionally been identified with its energy. We d
 
 #### André G. S. Landulfo (Federal University of ABC — Brazil)
 
+### Information flows, entanglement and communication in the presence of black holes
 #### Eduardo Martín-Martínez (University of Waterloo and Perimeter Institute — Canada)
+In this talk we will review several aspects of how information and correlations flow through quantum fields in the presence of black holes. We will focus on entanglement harvesting (the extraction of entanglement from a quantum field vacuum) and quantum communication in regions of strong curvature. We will use these results to gain some insight on how information is stored in quantum fields in the presence of strong gravity and horizons and what can relativistic quantum information teach us about them. 
 
 #### Ko Sanders (FAU Erlangen-Nürnberg — Germany)
 
@@ -59,6 +61,10 @@ The mass of a black hole has traditionally been identified with its energy. We d
 ### Nonperturbative Renormalization Group Flow for a Particle Detector
 #### Níckolas de Aguiar Alves (Federal University of ABC — Brazil)
 The functional renormalization group is a powerful tool to study nonperturbative physics, but it has not been much explored within quantum field theory in curved spacetime yet. On the other hand, particle detectors are an omnipresent tool within quantum field theory in curved spacetime and relativistic quantum information but are often treated only perturbatively. In this paper, we present the first computation of the functional renormalization group flow for a particle detector. The chosen model is an inertial Unruh–DeWitt detector in Minkowski spacetime, for simplicity. A new development in heat kernel techniques—the Taylor trick—is necessary to perform the calculations and it is important to carefully choose cutoffs that diverge at the ultraviolet limit in order to keep the beta functions finite. We compare our results with the MS-bar results at one-loop and find that both computations agree qualitatively, as expected.
+
+### Entanglement from rotating black holes in thermal baths
+#### Ivan Agullo (Louisiana State University — USA)
+The question of how much entanglement is produced during Hawking's evaporation process has primarily been investigated mostly for spherically symmetric black holes in isolation. However, most black holes in our universe are spinning, and exist within a thermal environment—the cosmic microwave background. In this presentation, I will describe how black hole spin and the thermal environment impact the generation of entanglement. The predictions are suitable for experimental testing in the laboratory using analog platforms.
 
 #### Shrobona Bagchi (Korea Institute of Science and Technology — South Korea)
 
@@ -73,6 +79,11 @@ We present a new operational framework for studying “superpositions of spaceti
 ### The four laws of spacetime thermodynamics
 #### Arno Keppens (Space Pole, Brussels — Belgium)
 Bardeen, Carter, and Hawking presented the four laws of black hole thermodynamics fifty years ago, in 1973. Only 45 years later, in 2018, Wang and Braunstein rigorously demonstrated that surfaces away from horizons are not thermodynamic, unless they are spherically symmetric. This entails that the laws of black hole thermodynamics can only be generalized to surfaces that are concentric with black hole horizons. Assuming the Schwarzschild metric, this generalization is achieved with a twist: By equating two temperature definitions that should simultaneously hold for an equilibrium thermodynamics of spacetime's degrees of freedom, it is immediately found that the latter only applies to surfaces with constant Newtonian gravitational potential. The laws of thermodynamics can correspondingly be rephrased in terms of spacetime's state variables at these surfaces. Note: This work elaborates on an essay written for the Gravity Research Foundation 2023 Awards for Essays on Gravitation, which was awarded an Honorable Mention.
+
+### Path Integrals on Curved Spacetime: the case for second order geometry
+#### Folkert Kuipers (LMU Munich — Germany)
+The search for a theory that consistently combines quantum theory with general relativity forces us to consider geometrical frameworks beyond standard (first order) differential geometry. One candidate for such a generalized geometrical framework is second order (stochastic) differential geometry, which incorporates a violation of Leibniz rule, that is characteristic to the Wiener integral, into the geometry. This feature makes the framework an ideal tool in the study of covariant path integrals on curved spacetimes.
+In this talk, I will review the basic ingredients of this framework in both a Euclidean and Lorentzian signature. Here, I will pay particular attention to the deformations of spacetime symmetries that arise due to the coupling of quantum fluctuations to the affine connection. Finally, I will discuss some connections to non-commutative geometry.
 
 ### Quantum energy inequalities in integrable models
 #### Jan Mandrysch (FAU Erlangen — Germany)
@@ -124,3 +135,6 @@ In this talk, I will explore the extension of QFT to accommodate non-smooth spac
 #### Fabiano Francisco dos Santos (Federal University of Maranhão — Brazil)
 This talk presents some results results of the BTZ black hole thermodynamics. These were performed by gravity duals of conformal field theories with boundaries$-$ known as AdS/BCFT correspondence. Through holographic renormalization, the free energy is obtained and with it, the other thermodynamic quantities are derived. Beyond these results, the Hawking-Page phase transition was computed to show the stable and unstable phases throughout the plane of free energy versus temperature.
 
+### Holographic Dual of Extended Black Hole Thermodynamics
+#### Manus Visser (University of Cambridge — United Kingdom)
+We establish a novel exact holographic dictionary between the laws of extended black hole thermodynamics in Anti-de Sitter Space and the thermodynamic laws of the dual conformal field theory (CFT). We formulate the CFT first law that is exactly dual to the first law of extended black hole thermodynamics with variable cosmological constant but fixed Newton’s constant. Moreover, we find the holographic dual of the Smarr relation for AdS black holes, coined the 'holographic Euler relation'. On the field theory side we include two independent pairs of thermodynamic conjugate variables: the central charge-chemical potential term and the pressure-volume term. In this setting we uncover various new phase transitions and critical behaviour in the CFT.
