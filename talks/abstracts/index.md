@@ -40,7 +40,9 @@ References:
 
 #### Eleni-Alexandra Kontou (King's College London — United Kingdom)
 
+### Black Hole Chemistry
 #### David Kubiznak (Charles University — Czechia, University of Waterloo and Perimeter Institute — Canada)
+The mass of a black hole has traditionally been identified with its energy. We describe a new perspective on black hole thermodynamics, one that identifies the mass of a black hole with chemical enthalpy, and the cosmological constant as thermodynamic pressure. This leads to an understanding of black holes from the viewpoint of chemistry, in terms of concepts such as Van der Waals fluids, reentrant phase transitions, and triple points. Both charged and rotating black holes exhibit novel chemical-type phase behaviour, hitherto unseen
 
 #### André G. S. Landulfo (Federal University of ABC — Brazil)
 
@@ -62,11 +64,29 @@ The functional renormalization group is a powerful tool to study nonperturbative
 
 #### Daine L. Danielson (University of Chicago — USA)
 
+### Quantum energy inequalities in integrable models
+#### Jan Mandrysch (FAU Erlangen — Germany)
+Many results in general relativity rely crucially on classical energy conditions. This includes for instance singularity theorems a la Hawking and Penrose which predict the formation of black holes. Quantum matter, however, violates these conditions since the energy density can fluctuate and in particular become arbitrarily negative at a point. 
+A reminiscent notion of stability can be captured by weaker conditions often referred to as quantum (weak) energy inequalities (QEIs). Such inequalities have been proven in many free QFT models and in some cases lead to similar singularity theorems as for classical matter.
+
+However, there exist only few results in interacting theories. A first step in this direction is to find QEI bounds in QFT without gravity. Here we will focus on a certain class of two-dimensional interacting QFTs known as "integrable models". In particular, we present results on the O(N)-nonlinear-sigma and sinh-Gordon model at one- and two-particle level.
+
+The talk is partly based on [2302.00063](https://arxiv.org/abs/2302.00063).
+
+### Asymptotic quasinormal modes of string-theoretical d-dimensional black holes
+#### Filipe Moura (Instituto Universitário de Lisboa — Portugal)
+We compute the quasinormal frequencies of d-dimensional large spherically symmetric black holes with Gauss-Bonnet corrections in the highly damped regime. We solve perturbatively the master differential equation and we compute the monodromies of the master perturbation variable (analytically continued to the complex plane) in different contours, in order to obtain the quasinormal mode spectra. We consider tensorial, vectorial and scalar gravitational perturbations, obtaining the same frequencies for the three cases like in Einstein gravity.
+
 ### Unpacking Black Hole Complementarity
 #### Siddharth Muthukrishnan (University of Pittsburgh — USA)
 To what extent does the black hole information paradox lead to violations of quantum mechanics? I explain how black hole complementarity provides a framework to articulate how quantum characterizations of black holes can remain consistent despite the information paradox. I point out that there are two ways to cash out the notion of consistency in play here: an operational notion and a descriptive notion. These two ways of thinking about consistency lead to (at least) two principles of black hole complementarity: an operational principle and a descriptive principle. Our background philosophy of science regarding realism/instrumentalism might initially lead us to prefer one principle over the other. However, the recent physics literature, which applies tools from quantum information theory and quantum computational complexity theory to various thought experiments involving quantum systems in or around black holes, implies that the operational principle is successful where the descriptive principle is not. This then lets us see that for operationalists the black hole information paradox might no longer be pressing.
 
 #### T. Rick Perche (University of Waterloo, Perimeter Institute and the Institute of Quantum Computing — Canada)
+
+### Noncommutative correction to black hole entropy
+#### Filip Pozar (Institute Ruder Boskovic — Croatia)
+Noncommutative geometry is an established candidate for modeling aspects of quantum gravity.
+We will outline the calculation of the correction to black hole entropy due to noncommutative geometry in the Brick wall approach and find logarithmic corrections, providing evidence to the claim that noncommutative spacetime encapsulates quantum effects of the spacetime.
 
 ### The Idealization Paradox in Hawking Radiation
 #### Dominic Ryder (London School of Economics — United Kingdom)
@@ -75,3 +95,18 @@ In this talk I argue that three mainstream derivations of Hawking radiation all 
 I first present and defend the existence of the idealization paradox by showing that for all three approaches, assumptions necessary for them to be carried out breakdown in evaporation spacetimes. Hawking himself recognized this problem and proposed an approximation regime to respond to it. Therefore, I next describe this proposal and argue that for each derivation it is non-trivial to show that Hawking radiation can be recovered in the approximation regime. For Hawking’s derivation the prospects of success for the approximation regime are very limited; for Fredenhagen and Haag’s the prospects are better; and for the algebraic approach the prospects are good.
 
 Finally, canvas possible resolutions to the idealization paradox and argue that, given a resolution, we may learn about: the operation of idealizations in physics, how global structure encodes local structure in general relativity, the nature of Hawking radiation, and how science uses models to make progress. 
+
+### Holographic Einstein Rings of a Black Hole in Massive Gravity
+#### Rabia Saleem (COMSATS University Islamabad, Lahore Campus — Pakistan)
+In the context of holography, the Einstein ring of an AdS black hole (BH) in massive gravity (MG) is depicted. An oscillating Gaussian source on one side of the AdS boundary propagates in bulk, and we impose a response function to explain it. Using a wave optics imaging system, we obtain the optical appearance of the Einstein ring. Our research reveals that the ring can change into a luminosity-deformed ring or light spots depending on the variation of parameters and observational positions. When observers are positioned at the north pole, the holographic profiles always appear as a ring with concentric stripe surroundings, and a bright ring appears at the location of the photon sphere of the BH. The amplitude of the lensed response function $|\langle O\rangle|$ increases with the increasing values of the graviton parameter $m$, for the fixed value of the horizon $u_{e}$. On the other hand, the amplitude of the lensed response function $|\langle O\rangle|$ decreases with the increasing values of the horizon $u_{e}$, for the fixed value of graviton parameter $m$. These differences are also reflected in the Einstein ring, where the intensities and the locations of the Einstein ring significantly vary according to the numerical values of the involved parameters. These findings are also observed in the brightness profiles and the best fit comparison between the results obtained by wave optics and geometric optics for different values of graviton parameter $m$. 
+
+### QFT in Non-smooth Spacetimes
+#### Yafet Erasmo Sanchez Sanchez (University of Genoa — Italy)
+Quantum Field Theory (QFT) offers a robust framework for understanding the universe at a microscopic level. However, its traditional formulation relies on the assumption of smooth spacetime—an idealization that fails in the context of certain astrophysical models and self-gravitating fluids.
+
+In this talk, I will explore the extension of QFT to accommodate non-smooth spacetimes. I will outline the primary concepts involved in the algebraic quantization of the free scalar field. The construction of observables will draw from the findings presented in arXiv:[1910.13789](https://arxiv.org/abs/1910.13789), while the discussion of states will reference arXiv:[2207.01429](https://arxiv.org/abs/2207.01429).
+
+### AdS/BCFT correspondence and BTZ black hole entropy within Horndeski gravity
+#### Fabiano Francisco dos Santos (Federal University of Maranhão — Brazil)
+This talk presents some results results of the BTZ black hole thermodynamics. These were performed by gravity duals of conformal field theories with boundaries$-$ known as AdS/BCFT correspondence. Through holographic renormalization, the free energy is obtained and with it, the other thermodynamic quantities are derived. Beyond these results, the Hawking-Page phase transition was computed to show the stable and unstable phases throughout the plane of free energy versus temperature.
+
