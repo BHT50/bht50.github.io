@@ -34,15 +34,7 @@ References:
 
 * [1503.06109](https://arxiv.org/abs/1503.06109): On the partner particles for moving mirror radiation and black hole evaporation
 * [1807.03467](https://arxiv.org/abs/1807.03467): Spatially Overlapped Partners in Quantum Field Theory
-* [1906.05009](https://In quantum field theory, the term "particle" is defined as that which is observed by a particle detector, as emphasized by Unruh and DeWitt. We present a general formula for determining a complementary purification particle corresponding to the particle observed by the detector.
-
-References:
-
-[1503.06109] On the partner particles for moving mirror radiation and black hole evaporation (arxiv.org)
-
-[1807.03467] Spatially Overlapped Partners in Quantum Field Theory (arxiv.org)
-
-[1906.05009] Partner formula for an arbitrary moving mirror in $1+1$ dimensions (arxiv.org)arxiv.org/abs/1906.05009): Partner formula for an arbitrary moving mirror in $1+1$ dimensions
+* [1906.05009](https://arxiv.org/abs/1906.05009): Partner formula for an arbitrary moving mirror in $1+1$ dimensions
 
 #### Bernard Kay (University of York — United Kingdom)
 
