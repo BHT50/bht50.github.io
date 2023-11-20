@@ -1,6 +1,6 @@
 # Talks
 
-Registrations for contributed talks and posters are open until November 10th.
+The book of abstracts is (partially) available [here](https://bht50.github.io/talks/abstracts/).
 
 ## Invited Speakers
 
