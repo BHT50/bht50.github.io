@@ -16,6 +16,7 @@ Registrations for contributed talks and posters are open until November 10th.
 * Stefan Hollands (University of Leipzig — Germany)
 * Masahiro Hotta (Tohoku University — Japan)
 * Bernard Kay (University of York — United Kingdom)
+* David Kubiznak (Charles University — Czechia, University of Waterloo and Perimeter Institute — Canada)
 * Eleni-Alexandra Kontou (King's College London — United Kingdom)
 * André G. S. Landulfo (Federal University of ABC — Brazil)
 * Eduardo Martín-Martínez (University of Waterloo and Perimeter Institute — Canada)
