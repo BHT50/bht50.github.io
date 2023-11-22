@@ -18,3 +18,9 @@ layout: default
 **Description:** We will study operational aspects of the relationship between quantum field theory and quantum information in curved spacetimes. Our main goals will be to  estimate the channel capacity of quantum channels established by quantum fields and to quantify the entanglement of a QFT between different regions of spacetime. The main tools that will aid us on these tasks are particle detector models: physically accessible quantum systems that can be used to obtain local information about quantum fields.
 
 **Pre-requisites:** Previous knowledge about quantum information is appreciated, but not required. Most of the topics covered in the Quantum Field Theory in Curved Spacetime course will be used in this minicourse, so I will assume familiarity with most of these topics.
+
+**Lecture notes:** 
+
+* [Lectures 1](https://bht50.github.io/minicourses/RQI_L1.pdf);
+* [Lecture 2](https://bht50.github.io/minicourses/RQI_L2BHTMiniCourseLec3.pdf);
+* [Lecture 3](https://bht50.github.io/minicourses/RQI_L3.pdf);
