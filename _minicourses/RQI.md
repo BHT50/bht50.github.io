@@ -24,3 +24,7 @@ layout: default
 * [Lectures 1](https://bht50.github.io/minicourses/RQI_L1.pdf);
 * [Lecture 2](https://bht50.github.io/minicourses/RQI_L2BHTMiniCourseLec3.pdf);
 * [Lecture 3](https://bht50.github.io/minicourses/RQI_L3.pdf);
+
+## Video Recordings
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vMBEpT3fkj8?si=jnGYkBdohYYhFgjM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
