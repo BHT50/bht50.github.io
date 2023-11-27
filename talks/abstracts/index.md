@@ -54,7 +54,10 @@ In this talk we will review several aspects of how information and correlations 
 
 #### Frank Saueressig (Radboud Universiteit Nijmegen — The Netherlands)
 
+### Quantum Switch on a Superposition of Spherical Shells
 #### Nelson Yokomizo (Federal University of Minas Gerais — Brazil)
+A characteristic generally expected to hold in a theory of quantum gravity is the existence of states describing superpositions of distinct geometries. Phenomenological models have recently been explored for the analysis of possible effects due to a superposition of geometries, including the occurrence of processes with indefinite order. In particular, in a gravitational quantum switch, the order of operations applied by two agents on a target system is entangled with the state of the geometry. We consider a model describing the superposition of geometries produced by distinct
+arrangements of spherical mass shells, and show that a protocol for the implementation of a gravitational quantum switch can be formulated in such a system. The geometries in superposition are identical in an exterior region outside a given radius, and differ within such a radius. The exterior region provides a classical frame with a definite geometry from which the superposition of geometries in the interior region can be probed. One of the agents crosses the interior region and becomes entangled with the geometry, which is explored as a resource for the implementation of the quantum switch.
 
 ## Contributed Talks
 
