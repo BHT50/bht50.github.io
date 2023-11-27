@@ -24,7 +24,7 @@
 
   About me: [www.ricardocorreadasilva.com](http://www.ricardocorreadasilva.com/).
 
-## Daine Danielson
+## [Daine Danielson](https://danielson.pro)
 
   <div align="center">
     <img src="https://bht50.github.io/organizers/pictures/daine.png" alt="Daine's profile picture" width="200" height="200">
