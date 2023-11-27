@@ -24,7 +24,7 @@
 
   About me: [www.ricardocorreadasilva.com](http://www.ricardocorreadasilva.com/).
 
-## [Daine Danielson](https://danielson.pro)
+## [Daine Danielson](https://www.danielson.pro)
 
   <div align="center">
     <img src="https://bht50.github.io/organizers/pictures/daine.png" alt="Daine's profile picture" width="200" height="200">
@@ -32,7 +32,7 @@
 
 I'm a PhD candidate and Hertz Fellow at the University of Chicago, in the Enrico Fermi Institute and Kadanoff Center for Theoretical Physics. My research interests include quantum gravity, quantum field theory in curved spacetime, quantum information theory, and black holes. Lately I have been particularly interested in gravitationally mediated entanglement and decoherence, infrared symmetries and memory effects in quantum field theory and gravity, and theoretical aspects of laboratory probes of quantum gravity.
 
-You can find my recent work, contact information, and CV at [https://danielson.pro](https://danielson.pro).
+You can find my recent work, contact information, and CV at [https://www.danielson.pro](https://www.danielson.pro).
 
 ## Antônio Duarte Pereira Junior
 
