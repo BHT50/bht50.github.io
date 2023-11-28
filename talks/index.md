@@ -41,4 +41,12 @@ The book of abstracts is (partially) available [here](https://bht50.github.io/ta
 * Fabiano Francisco dos Santos (Federal University of Maranhão — Brazil)
 * Manus Visser (University of Cambridge — United Kingdom)
 * Everett Patterson(Institute for Quantum Computing, University of Waterloo — Canada)
-* others TBA
+* Ivan Romualdo(University of Sao Paulo — Brazil/ FAU-Erlangen-Nuremberg — Germany)
+* Kiril Maltsev(University of Heidelberg/HITS — Germany)
+* Tiago Vasques Fernandes(GRIT, CENTRA, Instituto Superior Técnico — Portugal)
+* Sebastian Murk(Quantum Gravity Unit, Okinawa Institute of Science and Technology — Japan)
+* Alessandro Monteverdi(University of Sheffield — UK)
+* Ivan Agullo(Louisiana State University — USA)
+* Hideki Maeda(Hokkai-Gakuen University — Japan, and Albert-Einstein-Institut — Germany)
+* Jacob Thompson(University of Sheffield — UK )
+* Ángel Murcia(INFN, Sezione di Padova — Italy)
