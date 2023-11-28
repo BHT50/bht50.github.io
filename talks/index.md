@@ -40,4 +40,5 @@ The book of abstracts is (partially) available [here](https://bht50.github.io/ta
 * Yafet Erasmo Sanchez Sanchez (University of Genoa — Italy)
 * Fabiano Francisco dos Santos (Federal University of Maranhão — Brazil)
 * Manus Visser (University of Cambridge — United Kingdom)
+* Everett Patterson(Institute for Quantum Computing, University of Waterloo — Canada)
 * others TBA
