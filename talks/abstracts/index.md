@@ -52,7 +52,9 @@ In this talk we will review several aspects of how information and correlations 
 
 #### Ko Sanders (FAU Erlangen-Nürnberg — Germany)
 
+### Black holes Beyond General Relativity
 #### Frank Saueressig (Radboud Universiteit Nijmegen — The Netherlands)
+Black holes described by general relativity are extremely simple. They are completely characterized by their asymptotic mass, spin, and charge. In particular, Birkhoff’s theorem ensures that spherically symmetric black holes, described by the Schwarzschild metric, come with a single free parameter. Following up on Bardeen’s interest in black holes, this talk will discuss the corrections to the Schwarzschild geometry arising from including the Goroff-Sagnotti counterterm in the gravitational dynamics. Specifically, I will discuss the corresponding ``no hair’’ theorem and the impact of the corrections on black hole thermodynamics and shadow imaging.
 
 ### Quantum Switch on a Superposition of Spherical Shells
 #### Nelson Yokomizo (Federal University of Minas Gerais — Brazil)
