@@ -22,7 +22,7 @@ layout: default
 **Lecture notes:** 
 
 * [Lectures 1](https://bht50.github.io/minicourses/RQI_L1.pdf);
-* [Lecture 2](https://bht50.github.io/minicourses/RQI_L2BHTMiniCourseLec3.pdf);
+* [Lecture 2](https://bht50.github.io/minicourses/RQI_L2.pdf);
 * [Lecture 3](https://bht50.github.io/minicourses/RQI_L3.pdf);
 * [Lecture 4](https://bht50.github.io/minicourses/RQI_L4.pdf);
 * [Lecture 5](https://bht50.github.io/minicourses/RQI_L5.pdf);
