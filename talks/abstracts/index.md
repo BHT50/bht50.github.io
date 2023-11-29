@@ -51,7 +51,10 @@ The mass of a black hole has traditionally been identified with its energy. We d
 #### Eduardo Martín-Martínez (University of Waterloo and Perimeter Institute — Canada)
 In this talk we will review several aspects of how information and correlations flow through quantum fields in the presence of black holes. We will focus on entanglement harvesting (the extraction of entanglement from a quantum field vacuum) and quantum communication in regions of strong curvature. We will use these results to gain some insight on how information is stored in quantum fields in the presence of strong gravity and horizons and what can relativistic quantum information teach us about them. 
 
+### Temperature, Entropy and Energy from the QFT Point of View
 #### Ko Sanders (FAU Erlangen-Nürnberg — Germany)
+Black hole thermodynamics is an analogy (or more?) between the laws of black hole physics and the laws of thermodynamics. This analogy identifies properties of black holes (surface gravity, horizon area and mass) with general thermodynamic quantities (temperature, entropy and energy). The discovery of Hawking radiation suggests, that a proper justification of these identifications should involve quantum theory. This leads us to the investigation of thermodynamic quantities of quantum field theories (QFTs) in curved spacetimes. In this talk I will
+review some mathematical aspects about results on temperature, entropy and energy from the QFT point of view.
 
 ### Black holes Beyond General Relativity
 #### Frank Saueressig (Radboud Universiteit Nijmegen — The Netherlands)
