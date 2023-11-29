@@ -50,3 +50,9 @@ The book of abstracts is (partially) available [here](https://bht50.github.io/ta
 * Hideki Maeda(Hokkai-Gakuen University — Japan, and Albert-Einstein-Institut — Germany)
 * Jacob Thompson(University of Sheffield — UK )
 * Ángel Murcia(INFN, Sezione di Padova — Italy)
+
+ ## Posters
+* Silvia Pietroni(INAF — Italy)
+* Jan Novák(Czech Technical University — Czech Republic)
+* Alana Carolina Lima dos Santos(Federal University of Ceara — Brazil)
+
