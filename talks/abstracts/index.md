@@ -43,7 +43,9 @@ References:
 
 #### Bernard Kay (University of York — United Kingdom)
 
+### Generalizations of Classical Relativity Theorems
 #### Eleni-Alexandra Kontou (King's College London — United Kingdom)
+Several classical relativity theorems, including the famous singularity theorems, have in their assumptions pointwise energy conditions. Those conditions bound the energy density (or similar quantities) on every spacetime point and are easily violated by quantum fields. One way to examine the applicability of those theorems in semiclassical gravity is to replace them with an averaged version, where the energy density is bounded on a segment of a causal geodesic. The index form method, used instead of the Raychaudhuri equation, provides a direct way of using those weakened conditions. In this talk I will apply this method to the Penrose singularity theorem and the Hawking area theorem, and present progress and challenges for both. Finally, I will discuss the connection between the area theorem and black hole thermodynamics.
 
 ### Black Hole Chemistry
 #### David Kubiznak (Charles University — Czechia, University of Waterloo and Perimeter Institute — Canada)
