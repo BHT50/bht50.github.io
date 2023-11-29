@@ -51,7 +51,7 @@ The book of abstracts is (partially) available [here](https://bht50.github.io/ta
 * Jacob Thompson(University of Sheffield — UK )
 * Ángel Murcia(INFN, Sezione di Padova — Italy)
 
- ## Posters
+## Posters
 * Silvia Pietroni(INAF — Italy)
 * Jan Novák(Czech Technical University — Czech Republic)
 * Alana Carolina Lima dos Santos(Federal University of Ceara — Brazil)
