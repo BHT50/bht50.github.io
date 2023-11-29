@@ -9,7 +9,11 @@
 #### Claudio Dappiaggi (University of Pavia — Italy)
 We review the cornerstones of a longstanding programme aimed at constructing Hadamard states for free quantum fields on asymptotically flat spacetimes by exploiting invariance under the action of the BMS asymptotic symmetry group. In particular we outline how this procedure has been used to give a rigorous construction of the Unruh state for a massless, conformally coupled, real scalar field on Schwarzschild spacetime and we survey its application to higher spin, free fields. To conclude we examine the future perspectives on the interplay between Hadamard states, algebraic quantum field theory and black hole physics.
 
+### Measurement in Quantum Field Theory: measurement schemes, state updates, impossible measurements, and all that
 #### Christopher J. Fewster (University of York — United Kingdom)
+Many presentations of quantum mechanics include a postulate that the state of a system undergoes an instantaneous change following a measurement. This is clearly incompatible with special and general relativity and raises questions concerning the description of measurement in quantum field theory (QFT). Attempts to extend measurement postulates to QFT by hand have produced
+pathologies, such as the "impossible measurements" described long ago by Sorkin. I will present a recent operational approach to these questions, which models measurement of one quantum field (the system) by coupling it to another (the probe). This is all accomplished in a model-independent way within algebraic quantum field theory (AQFT). The resulting framework provides a description of measurement in QFT that is causal, covariant and consistent, and includes state update rules that are derived from the formalism, and works equally well
+in flat or curved spacetimes. No prior knowledge of AQFT will be assumed.
 
 #### Klaus Fredenhagen (Universität Hamburg — Germany)
 
