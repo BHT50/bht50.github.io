@@ -21,8 +21,9 @@ Because all two-dimensional space-times are conformally flat and most massless f
 
 My principal collaborators in this work have been Paul Davies in the 1970s and Justin Wilson in the 2010s; Bill Unruh and Marlan Scully have had major influences.
 
-
+### Black Holes in The Quantum Effective Action
 #### Aaron Held (École Normale Supérieure — France)
+In classical General Relativity, black holes are stable and key to cosmic censorship. The semi-classical limit suggests that black holes slowly evaporate due to Hawking radiation. In an attempt to go beyond the semi-classical limit, my talk addresses black holes in the effective action expected from full quantum gravity. In particular, I will present recent progress on the well-posed nonlinear evolution when including the leading quantum corrections and summarize what we know about the resulting implications for black-hole dynamics and recent observational advances in black-hole astronomy.
 
 #### Stefan Hollands (University of Leipzig — Germany)
 
