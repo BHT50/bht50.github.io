@@ -41,7 +41,15 @@ References:
 * [1807.03467](https://arxiv.org/abs/1807.03467): Spatially Overlapped Partners in Quantum Field Theory
 * [1906.05009](https://arxiv.org/abs/1906.05009): Partner formula for an arbitrary moving mirror in $1+1$ dimensions
 
+### But what is entropy?
 #### Bernard Kay (University of York — United Kingdom)
+
+
+### A review on the questions of spin and spin quantum correlations in the relativistic regime
+#### Shrobona Bagchi (Korea Institute of Science and Technology — South Korea)
+Quantum correlations are one of the most important aspects of the modern day quan- tum information and computation theory.  However, the majority of understanding of the quantum correlations is in the field of non-relativistic quantum mechanics. To develop the quantum information and computation tasks fully, one must inevitably take into account the relativistic effects. In this regard, the spin is one of the central tools to implement these qubit operations in almost all quantum information processing tasks. For this purpose, it is of paramount importance to understand and characterize fully the theory of spin in relativistic quantum mechanics and relativistic quantum information theory where the spin states act as qubit. This area is still far from being resolved as a current state of art. As a result, in this talk we will explore the recent studies of the concepts of the spin and spin quantum correlations in inertial frames and some apparent paradoxes regarding this concept. We will mainly focus on the problem of characterizing the concept of spin, reduced spin density matrices and consequently spin quantum correlations
+in inertial reference frames and the apparent paradoxes involved therein, yet to be verified experimentally. Another important aspect is the use of tools of quantum field theory to extend concepts in non- relativistic domain to relativistic one. In this regard, we will analyze the development of the theory of relativistic secret sharing and a correlation measure namely the entanglement of purification. We will also explore how these developments may be mapped to quantum information processing task and discuss the future promises.
+
 
 ### Generalizations of Classical Relativity Theorems
 #### Eleni-Alexandra Kontou (King's College London — United Kingdom)
@@ -80,7 +88,6 @@ The functional renormalization group is a powerful tool to study nonperturbative
 #### Ivan Agullo (Louisiana State University — USA)
 The question of how much entanglement is produced during Hawking's evaporation process has primarily been investigated mostly for spherically symmetric black holes in isolation. However, most black holes in our universe are spinning, and exist within a thermal environment—the cosmic microwave background. In this presentation, I will describe how black hole spin and the thermal environment impact the generation of entanglement. The predictions are suitable for experimental testing in the laboratory using analog platforms.
 
-#### Shrobona Bagchi (Korea Institute of Science and Technology — South Korea)
 
 ### Horizons as Eavesdroppers: Black Holes Decohere Quantum Superpositions
 #### Daine L. Danielson (University of Chicago — USA)
