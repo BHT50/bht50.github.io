@@ -1,5 +1,5 @@
 # Conference Registration
 
-Deadline for abstract submissions: November 10th 
+The registragions are closed. In case you want to participate, please e-mail bht50years@gmail.com
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdq6BDeogVz9GWfiu9ZbdUfV41tUVuiecQY9ZTiym6DZkVnwA/viewform?embedded=true" width="600" height="800" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+
