@@ -4,6 +4,7 @@
 
 ### Horizon Symmetries and Black Hole Entropy
 #### Steven Carlip (University of California, Davis — USA)
+One of the most mysterious properties of black hole entropy is its universality.  The area law, with the same fixed coefficient, occurs for a huge variety of "black" objects, and is reproduced by a great many microscopic approaches, even though they seem to describe vastly different underlying states.  I describe an approach to this problem that appeals to a possible underlying symmetry of a generic horizon, and discuss its implication for the microscopic description of black hole entropy.
 
 ### Hadamard States and Black Holes: A story written at infinity
 #### Claudio Dappiaggi (University of Pavia — Italy)
