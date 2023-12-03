@@ -16,7 +16,11 @@ Many presentations of quantum mechanics include a postulate that the state of a 
 pathologies, such as the "impossible measurements" described long ago by Sorkin. I will present a recent operational approach to these questions, which models measurement of one quantum field (the system) by coupling it to another (the probe). This is all accomplished in a model-independent way within algebraic quantum field theory (AQFT). The resulting framework provides a description of measurement in QFT that is causal, covariant and consistent, and includes state update rules that are derived from the formalism, and works equally well
 in flat or curved spacetimes. No prior knowledge of AQFT will be assumed.
 
+### On the derivation of Hawking radiation
 #### Klaus Fredenhagen (Universität Hamburg — Germany)
+About 50 years after Hawking's prediction of radiation of black holes I want to review the status of its derivation in the framework of quantum field theory on curved spacetimes.
+Besides indirect arguments based on an assumed merger between thermodynamics and general relativity the analysis was mainly concentrated on an analysis of classical wave equations on stationary spacetimes with black holes, with boundary conditions mimicking the situation in a gravitational collapse. Not much was done for the interacting case, and also for free fields the results for generic states on spacetimes describing collapsing stars are rare. I will present an ansatz which might be useful for further progress and is based on older ideas
+on the use of the conformal anomaly.
 
 #### Ivette Fuentes (University of Southampton and Keble College, Oxford — United Kingdom)
 
