@@ -30,7 +30,9 @@ My principal collaborators in this work have been Paul Davies in the 1970s and J
 #### Aaron Held (École Normale Supérieure — France)
 In classical General Relativity, black holes are stable and key to cosmic censorship. The semi-classical limit suggests that black holes slowly evaporate due to Hawking radiation. In an attempt to go beyond the semi-classical limit, my talk addresses black holes in the effective action expected from full quantum gravity. In particular, I will present recent progress on the well-posed nonlinear evolution when including the leading quantum corrections and summarize what we know about the resulting implications for black-hole dynamics and recent observational advances in black-hole astronomy.
 
+### Black Hole Interiors
 #### Stefan Hollands (University of Leipzig — Germany)
+Kerr or Reissner-Nordström black holes have inner horizons which delineate the domain of predictability of solutions to wave equations (Klein-Gordon, EM, gravitational,...). Often, though not e.g. for certain (A)deSitter black holes, these inner horizons are classically dynamically unstable, and get turned into some sort of singularity by perturbations, and thus drastically changing the nature of the inner horizons relative to the underlying exact solutions, and relegating the problem of predictability to the real of quantum gravity ("strong cosmic censorship"). Recent work has shown that semi-classical quantum effects dominate classical ones very near the inner horizons, and are expected lead to singularity in cases where the inner horizon is stable classically. I review recent progress surrounding these issues.
 
 ### Particle detectors and purification partners for the observed particles
 #### Masahiro Hotta (Tohoku University — Japan)
