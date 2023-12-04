@@ -62,4 +62,4 @@ I am generally interested in mathematical aspects of quantum field theory and in
     <img src="https://bht50.github.io/organizers/pictures/caio.png" alt="Caio's profile picture" width="200" height="200">
   </div>
 
-Hey Folks! I'm Caio, I'm currently pursuing my undergraduate degree at the [Federal University of Ceará](https://www.fisica.ufc.br/portal/en/front-page/). I work as a undergrad research assistant in the Quantum Field Theory and Gravitation Group there and I have been working mainly in aspects of the Unruh effect, Hawking radiation and black hole shadows. You can find out more about me [here](https://usingcaio.github.io/).
+Hey Folks! I'm Caio, I'm currently pursuing my undergraduate degree at the [Federal University of Ceará](https://www.fisica.ufc.br/portal/en/front-page/). I work as a undergrad research assistant in the Quantum Field Theory and Gravitation Group, and I have been working mainly in aspects of the Unruh effect, Hawking radiation and black hole shadows. You can find out more about me [here](https://usingcaio.github.io/).
