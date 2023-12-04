@@ -56,7 +56,7 @@ I got my BSc in Physics at the [Federal University of Minas Gerais](https://www.
 
 I am generally interested in mathematical aspects of quantum field theory and in the intersection between pure mathematics and theoretical physics. I am currently working on extending the description of Bell's inequalities in QFT to more general spacetimes and the consequences of such generalization.
 
-## Caio César Rodrigues Evangelista
+## [Caio César Rodrigues Evangelista](https://usingcaio.github.io/)
 
   <div align="center">
     <img src="https://bht50.github.io/organizers/pictures/caio.png" alt="Caio's profile picture" width="200" height="200">
