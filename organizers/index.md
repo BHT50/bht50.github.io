@@ -34,7 +34,13 @@ I'm a PhD candidate and Hertz Fellow at the University of Chicago, in the Enrico
 
 You can find my recent work, contact information, and CV at [https://www.danielson.pro](https://www.danielson.pro).
 
-## Antônio Duarte Pereira Junior
+## [Antônio Duarte Pereira Junior](https://sites.google.com/view/antoniodpj/)
+
+  <div align="center">
+    <img src="https://bht50.github.io/organizers/pictures/antonio.png" alt="Antônio's profile picture" width="200" height="200">
+  </div>
+
+  I am an assistant professor at Fluminense Federal University. Until very recently, I was a VENI fellow at Radboud University in Nijmegen. My research has been mainly focused on non-perturbative aspects of quantum field theories with particular interest in the asymptotic safety scenario for quantum gravity.
 
 ## Rafael Grossi e Fonseca
 
