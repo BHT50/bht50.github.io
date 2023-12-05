@@ -35,6 +35,7 @@ The book of abstracts is (partially) available [here](https://bht50.github.io/ta
 * Siddharth Muthukrishnan (University of Pittsburgh — USA)
 * Filip Pozar (Institute Ruder Boskovic — Croatia)
 * Salvatore Ribisi (CPT–Marseille — France)
+* Victor Zhang (University of Chicago — USA)
 * Dominic Ryder (London School of Economics — United Kingdom)
 * Rabia Saleem (COMSATS University Islamabad, Lahore Campus — Pakistan)
 * Yafet Erasmo Sanchez Sanchez (University of Genoa — Italy)
